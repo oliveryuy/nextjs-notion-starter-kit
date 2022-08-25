@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Yuyu的个人博客',
-  domain: 'https://dot-throne-ad5.notion.site/Redis-eb05641802744f838c54d4fbe063aa94',
+  domain: 'https://yuyi-oliver.notion.site/Redis-eb05641802744f838c54d4fbe063aa94',
   author: 'yuyi',
 
   // open graph metadata (optional)
